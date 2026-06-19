@@ -1,0 +1,71 @@
+
+#EXTINF:-1,Bein
+http://ua.online24.pm/play/1102/350B326FB34F4B8/video.m3u8
+
+
+#EXTINF:-1,4K
+http://starhub.pro/live/farhat-3379/67897-913379/745269.ts
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", T Sports 🇧🇩
+http://rgkkw.live:80/live/1Aoen7elp5/IgMJ60tmAa/130714.ts
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", T Sports HD B 🇧🇩
+http://198.195.239.50:8095/tsports/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", BTV Live 🇧🇩
+http://103.14.151.101:11/manik-kuttar-baccha-telegram-batpar.m3u8
+#EXTINF:-1,Bein
+http://starhub.pro/live/farhat-3379/67897-913379/744524.ts
+#EXTINF:-1,Zee Bangla Cinema
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/ColorsHD.m3u8
+#EXTINF:-1,Fox
+http://starhub.pro/live/farhat-3379/67897-913379/742610.ts
+
+#EXTINF:-1,Zee Cinema 
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/NGCHD/default/NGCHD.m3u8
+
+
+#EXTINF:-1 group-title="LIVE SPORTS" tvg-logo="https://i.postimg.cc/zDhztvXN/20260604-143226.jpg",সময়
+https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8
+#EXTINF:-1,Somoy Tv
+http://114.130.57.224:8080/Somoy-TV-3Mb/tracks-v1a1/mono.m3u8?token=SkQuhAXZxgBan1
+
+
+#EXTINF:-1,T sports
+http://198.195.239.50:8095/tsports/tracks-v1a1/mono.m3u8
+
+
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/kIiut6WBq0.jpg", beIN Sports
+http://ua.online24.pm/play/1101/350B326FB34F4B8/video.m3u8
+
+
+
+#EXTINF:-1 group-title="LIVE SPORTS" tvg-logo="https://i.postimg.cc/prg8sRhM/20260604-101842.jpg",FIFA World Cup 2026
+https://pull.niues.live/live/stream-387694_lsd.m3u8?auth_key=1781202440-0-0-bc8f7a26c679403a942928f256162e5b
+
+#EXTINF:-1 group-title="LIVE SPORTS" tvg-logo="https://i.postimg.cc/wBqS8gCh/20260605-180409.jpg",FIFA World Cup 2026
+https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/1702-audio_113322_eng=113200-video=2202800.m3u8
+
+
+
+#EXTINF:-1 group-title="LIVE SPORTS" tvg-logo="https://i.postimg.cc/FsYZ5bSM/20260604-140714.jpg",FIFA World Cup 2026 🇧🇷[coming]
+https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8
+#https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/6d1aaa03b84a69992940873fc11af8fc" group-title="Bangla",Thikana
+https://5dd3981940faa.streamlock.net:443/thikanatv/thikanatv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-name="জলসা Movie HD" tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/main/India/jalsha-movies-hd-in.png" group-title="Indian Bangla",জলসা Movie HD
+http://198.195.239.50:8095/JalshaMovies/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="STAR SPORTS 2" tvg-logo="http://172.16.29.28/images/starsports2.png" group-title="PRO",STAR SPORTS 2📺
+http://172.16.29.2:8090/hls/StarSports2HD.m3u8
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPZdDXbsGeDOGhPC-Og7bXRrJxsbaFnZ1IEVB7-bPsJtpvNE9IhcMv0Q5OnUq5GCK9UqE7mzMCZinQaN1NSjk2wqKQFs_dreX5yGnDiXNju5yYT_9BDLC3dThhXRIfKk5XQGNc4oi6qWO3fvw5-9dqydLf6pvyHsq5cske3F1FKKih75cCUk20OKVymg/s600/Nur_20251216_222101_0000.png" group-title="Drama", Star Jalsha
+https://tvsen3.aynaott.com/n64PH4YL/index.m3u8
+#EXTINF:-1 tvg-id="41" tvg-name="Party Universe" tvg-country="BD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770378215384.png" tvg-chno="41" group-title="Music",Party Universe
+https://nomawnoijl.gpcdn.net/akash/partyuniverse/playlist.m3u8
+#EXTINF:-1,Jana NAYAGAN
+http://103.203.93.19/Action%20Movie%20(Mixed)/2026/Jana.Nayagan.2026.720p.WEB-LEAK.Hindi.HQ-Studio.Dub.x265/Jana.Nayagan.2026.720p.WEB-LEAK.Hindi.HQ-Studio.Dub.x265.mkv
